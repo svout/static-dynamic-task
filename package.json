@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=static-dynamic-task",
+    "build": "vite build --base=/<static-dynamic-task>/",
     "preview": "vite preview"
   },
   "devDependencies": {
